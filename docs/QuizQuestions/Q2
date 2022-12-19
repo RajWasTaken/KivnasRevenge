@@ -1,0 +1,13 @@
+int TAKEWORLDOVER(int TAKEOVERPLOTS[]) { 
+  TAKEOVERPLOTS = TAKEOVERPLOTS + 1;    
+  printf("%d ", TAKEOVERPLOTS[0]);      
+}                                       
+                                        
+int main(void) {                        
+                                        
+  int TAKEOVERPLOTS[2] = {10, 20};      
+  TAKEWORLDOVER(TAKEOVERPLOTS);         
+  printf("%d", TAKEOVERPLOTS[0]);       
+  return 0;                             
+}                                       
+                                        

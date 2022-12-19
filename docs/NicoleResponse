@@ -1,0 +1,91 @@
+State: TalkToNiko1 Tree: Story
+
+Nicole! What's happening?
+What? What was that noise?
+Homicidal... cyborg? What are you talking about?
+
+State: TalkToNiko1 Tree: Objective
+
+How do I fix whatever's wrong?
+Okay... and how do I do that?
+Seriously? Ducks? Where are they?
+
+State: TalkToNiko1 Tree: Personal
+
+So... what do you do here?
+Is there anything I should know about the facility?
+Is there anything else I should know?
+
+State: DuckHunting Tree: Story
+
+If this has happened before, why hasn't he scrapped it, or at least made it safer?
+...
+...
+State: DuckHunting Tree: Objective
+
+So... what am I doing again?
+Is there any other way?
+I'm scared.
+
+State: DuckHunting Tree: Personal
+
+So... what do you do here?
+Is there anything I should know about the facility?
+Is there anything else I should know?
+
+State: HaveAllDucks Tree: Story
+
+Why do you need all the ducks?
+...
+If they're all made up, why is there a duck that looks exactly like Marcus? It even shakes a little bit if you whisper "vim" into its ear...
+
+State: HaveAllDucks Tree: Objective
+
+I got them all! 
+So do you remember the password?
+What?
+
+State: HaveAllDucks Tree: Personal
+
+So what's your favorite dinosaur?
+So what's your favorite dinosaur?
+So what's your favorite dinosaur?
+
+State: TalkNiko2 Tree: Story
+
+Why can I hear quacking and webbed feet in the upstairs labs?
+I'm positive.
+Stop dodging my question.
+
+State: TalkNiko2 Tree: Objective
+
+I hate to tell you this, but Kivna found me. He took all the ducks...
+I'm sorry
+Nuclear... device? Wait so what do I need to do?
+
+State: TalkNiko2 Tree: Personal
+
+
+So how long have you been here?
+Yeah... I remember.
+Is that how you lost the ducks?
+
+State: BombHunting Tree: Story
+
+You can stop with the lies now, what really goes on here? Why are there quacks in the lab?
+...
+So where did the rest of the ducks come from?
+
+State: BombHunting Tree: Objective
+
+Wait so what am I doing again?
+So how are we not also gonna die by said bomb?
+What about the radiation?
+
+State: BombHunting Tree: Personal
+
+So... you wanna grab a coffee sometime?
+So... you wanna grab a coffee sometime?
+So... you wanna grab a coffee sometime?
+
+

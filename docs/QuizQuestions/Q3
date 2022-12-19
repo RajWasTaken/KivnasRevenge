@@ -1,0 +1,12 @@
+void CONQUERHUMAN(char **PUNYEMOTIONS)                           
+{                                                               
+  char *MIMICBRAINSIGNAL;                                       
+  MIMICBRAINSIGNAL = (PUNYEMOTIONS += sizeof(int))[-1];         
+  printf("%s\n", MIMICBRAINSIGNAL);                             
+}                                                               
+int main()                                                      
+{                                                               
+  char *PUNYEMOTIONS[] = { "ab", "cd", "ef", "gh", "ij", "kl" };
+  CONQUERHUMAN(PUNYEMOTIONS);                                   
+  return 0;                                                     
+}                                                               

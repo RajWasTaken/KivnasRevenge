@@ -1,0 +1,149 @@
+Marcus
+...
+
+State: TalkAnvik Tree: Story
+
+Oh hello! I'm Marcus, the other intern here. 
+Man, check out this project I'm working on. Once I'm done, I should be able to run Vim IN MY BRAIN! Isn't that crazy? 
+Actually, you should probably go see Dr. Anvik first.
+
+
+State: TalkAnvik Tree: Objective
+
+You should go talk to Dr Anvik, don't want to get fired on the first day right?
+You should go talk to Dr Anvik, don't want to get fired on the first day right?
+You should go talk to Dr Anvik, don't want to get fired on the first day right?
+
+State: TalkAnvik Tree: Personal
+
+Hey, have you ever used Vim? It's clearly the superior editor.
+It's Unix based, and you can use it without ever needing to touch your mouse!
+Emacs is also Unix based... but it's gross and disgusting and if you use it you will never be loved.
+
+State: Switch Tree: Story
+
+What the, why'd the lights go out? 
+What the, why'd the lights go out? 
+What the, why'd the lights go out? 
+
+State: Switch Tree: Story
+
+You should probably go flip the breaker.
+You should probably go flip the breaker.
+You should probably go flip the breaker.
+
+State: Switch Tree: Personal
+
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+
+State: Switch Tree: Story
+
+What the, why'd the lights go out? 
+What the, why'd the lights go out? 
+What the, why'd the lights go out? 
+
+State: Switch Tree: Story
+
+You should probably go flip the breaker.
+You should probably go flip the breaker.
+You should probably go flip the breaker.
+
+State: Switch Tree: Personal
+
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+
+State: Switch Tree: Story
+
+What the, why'd the lights go out? 
+What the, why'd the lights go out? 
+What the, why'd the lights go out? 
+
+State: Switch Tree: Story
+
+You should probably go flip the breaker.
+You should probably go flip the breaker.
+You should probably go flip the breaker.
+
+State: Switch Tree: Personal
+
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+Why are you asking me this right now? It would probably be easier to converse if the lights were on no?
+
+State: TalkAnvik Tree: Story
+
+Hi.
+Nice to meet you.
+Wow, that's pretty cool.
+
+State: TalkAnvik Tree: Objective
+
+So what should I do?
+So what should I do?
+So what should I do?
+
+State: TalkAnvik Tree: Personal
+
+So why did you want to work here?
+Um... alright...
+What about Emacs?
+
+State: TalkAnvik Tree: Story
+
+What's going on?
+What's going on?
+What's going on?
+
+State: TalkAnvik Tree: Objective
+
+So what should I do?
+So what should I do?
+So what should I do?
+
+State: TalkAnvik Tree: Personal
+
+So why did you want to work here?
+Um... alright...
+What about Emacs?
+
+State: TalkAnvik Tree: Story
+
+What's going on?
+What's going on?
+What's going on?
+
+State: TalkAnvik Tree: Objective
+
+So what should I do?
+So what should I do?
+So what should I do?
+
+State: TalkAnvik Tree: Personal
+
+So why did you want to work here?
+Um... alright...
+What about Emacs?
+
+State: TalkAnvik Tree: Story
+
+What's going on?
+What's going on?
+What's going on?
+
+State: TalkAnvik Tree: Objective
+
+So what should I do?
+So what should I do?
+So what should I do?
+
+State: TalkAnvik Tree: Personal
+
+So why did you want to work here?
+Um... alright...
+What about Emacs?
+
+

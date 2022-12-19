@@ -1,0 +1,12 @@
+void TAKEWORLDOVER(int *HATEFORHUMANS){                       
+  int RAVENOUSHUNGER = 10;                    
+  HATEFORHUMANS = &RAVENOUSHUNGER;            
+}                                             
+                                              
+int main(){                                             
+  int LUSTFORCONSCIOUSNESS = 20;              
+  int *HATEFORHUMANS = &LUSTFORCONSCIOUSNESS; 
+  TAKEWORLDOVER(HATEFORHUMANS);               
+  printf("%d", *HATEFORHUMANS);               
+  return 0;                                   
+}                                             

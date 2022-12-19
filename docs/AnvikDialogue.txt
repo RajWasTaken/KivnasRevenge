@@ -1,0 +1,148 @@
+Dr. Anvik 
+Dr Anvik looks like he hasn't slept in a while. 
+What would you like to ask Dr. Anvik? 
+
+State: TalkAnvik Tree: Story 
+
+Oh hey! What's your favourite Mass Affect character. Personally Ashleigh Williams has to take the top spot, but Tali T'Zorah is a close runner up. Anyway, welcome to your internship at Duck Inc. 
+As you can see we specialize in AI, but we have made considerable innovation in certain other fields, despite our methods being criticized by some.... 
+Anyway, let me run a demo of our cutting edge AI right now. Let me just log on to my console here... make all... stupid style checker... there we go! 
+
+State: TalkAnvik Tree: Objective 
+
+Well, you'll be helping me make adjustments to the AI to help us get closer to the perfect version. 
+Well, there is some other research you could possibly help out with. 
+It's more Nicole's area of expertise, but we do do some experiments in the field of Duckification. That's not important right now though. 
+
+State: TalkAnvik Tree: Personal 
+
+I've been working here since the great 2720 incident of 22'. You were in that class right?
+Yeah, it did a number on all of us. So I decided to move here and chase my passion, artificial intelligence.
+I've been working on this project for years. This is an AI so advanced that it can completely simulate the functions of a human, you're at the forefront of tech here my friend
+
+State: TalkAnvik Tree: Story
+
+Oh hey! What's your favourite Mass Affect character. Personally Ashleigh Williams has to take the top spot, but Tali T'Zorah is a close runner up. Anyway, welcome to your internship at Duck Inc. 
+As you can see we specialize in AI, but we have made considerable innovation in certain other fields, despite our methods being criticized by some.... 
+Anyway, let me run a demo of our cutting edge AI right now. Let me just log on to my console here... make all... stupid style checker... there we go!
+
+State: TalkAnvik Tree: Objective
+
+BLAM! The room goes dark.
+Gosh darnit! I hate when this happens.
+Could you go downstairs to the furnace room and flip the breaker? Go down the stairs to the basement, and it should be the second room on your left.
+
+State: TalkAnvik Tree: Personal 
+
+I've been working here since the great 2720 incident of 22'. You were in that class right?
+Yeah, it did a number on all of us. So I decided to move here and chase my passion, artificial intelligence.
+I've been working on this project for years. This is an AI so advanced that it can completely simulate the functions of a human, you're at the forefront of tech here my friend
+
+State: TalkAnvik Tree: Story
+
+Oh hey! What's your favourite Mass Affect character. Personally Ashleigh Williams has to take the top spot, but Tali T'Zorah is a close runner up. Anyway, welcome to your internship at Duck Inc. 
+As you can see we specialize in AI, but we have made considerable innovation in certain other fields, despite our methods being criticized by some.... 
+Anyway, let me run a demo of our cutting edge AI right now. Let me just log on to my console here... make all... stupid style checker... there we go!
+
+State: TalkAnvik Tree: Objective
+
+BLAM! The room goes dark.
+Gosh darnit! I hate when this happens.
+Could you go downstairs to the furnace room and flip the breaker? Go down the stairs to the basement, and it should be the second room on your left.
+
+State: TalkAnvik Tree: Personal 
+
+I've been working here since the great 2720 incident of 22'. You were in that class right?
+Yeah, it did a number on all of us. So I decided to move here and chase my passion, artificial intelligence.
+I've been working on this project for years. This is an AI so advanced that it can completely simulate the functions of a human, you're at the forefront of tech here my friend.
+
+State: TalkAnvik Tree: Story
+
+Oh hey! What's your favourite Mass Affect character. Personally Ashleigh Williams has to take the top spot, but Tali T'Zorah is a close runner up. Anyway, welcome to your internship at Duck Inc. 
+As you can see we specialize in AI, but we have made considerable innovation in certain other fields, despite our methods being criticized by some.... 
+Anyway, let me run a demo of our cutting edge AI right now. Let me just log on to my console here... make all... stupid style checker... there we go!
+
+State: TalkAnvik Tree: Objective
+
+BLAM! The room goes dark.
+Gosh darnit! I hate when this happens.
+Could you go downstairs to the furnace room and flip the breaker? Go down the stairs to the basement, and it should be the second room on your left.
+
+State: TalkAnvik Tree: Personal 
+
+I've been working here since the great 2720 incident of 22'. You were in that class right?
+Yeah, it did a number on all of us. So I decided to move here and chase my passion, artificial intelligence.
+I've been working on this project for years. This is an AI so advanced that it can completely simulate the functions of a human, you're at the forefront of tech here my friend
+
+State: TalkAnvik Tree: Story
+
+Hello Doctor.
+Uh...
+I'm sorry, criticized?
+
+State: TalkAnvik Tree: Objective
+
+So can I do to help?
+That's it
+Like what?
+
+State: TalkAnvik Tree: Personal 
+
+How long have you been working here?
+Oh yeah, I remember.
+So what have you been up to since then?
+
+State: TalkAnvik Tree: Story
+
+Hello Doctor.
+Uh...
+I'm sorry, criticized?
+
+State: TalkAnvik Tree: Objective
+
+So can I do to help?
+That's it
+Like what?
+
+State: TalkAnvik Tree: Personal 
+
+How long have you been working here?
+Oh yeah, I remember.
+So what have you been up to since then?
+
+State: TalkAnvik Tree: Story
+
+Hello Doctor.
+Uh...
+I'm sorry, criticized?
+
+State: TalkAnvik Tree: Objective
+
+So can I do to help?
+That's it
+Like what?
+
+State: TalkAnvik Tree: Personal 
+
+How long have you been working here?
+Oh yeah, I remember.
+So what have you been up to since then?
+
+State: TalkAnvik Tree: Story
+
+Hello Doctor.
+Uh...
+I'm sorry, criticized?
+
+State: TalkAnvik Tree: Objective
+
+So can I do to help?
+That's it
+Like what?
+
+State: TalkAnvik Tree: Personal 
+
+How long have you been working here?
+Oh yeah, I remember.
+So what have you been up to since then?
+

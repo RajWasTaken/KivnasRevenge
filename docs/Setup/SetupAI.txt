@@ -1,0 +1,120 @@
+0
+Upper Dumbwaiter
+The room is empty aside from the dumbwaiter in the wall. 
+The dumbwaiter in the wall looks just big enough for you to fit in. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+25
+0
+
+3
+Anvik's Lab
+The room is filled with high-tech equipment and a strange looking apparatus. 
+The lab equipment gives off an unsettling energy. If standing quietly enough, you can faintly hear human voices along with subdued quacks. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+0
+Anvik's Quarters
+The room is well kept and smells nice. Posters of design principles and patterns cover the walls. 
+The room's clean aesthetic is interrupted by the cardboard cutout of Danny Devito in the corner. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+0
+Auxillary Lab
+The lab has other equipment for more specialized work. 
+A large ring structure occupies the center of the lab, and the echo of webbed feet can be faintly heard. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+0
+Upstairs Hallway
+The hallway is empty with a flickering lightbulb in the ceiling.  
+The hallway is, crazily, still empty. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+14
+0
+
+0
+Main Entrance
+The front door is mechanically locked. 
+It does not look like you will be able to get out. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+2
+0
+ 
+0
+Main Entrance
+The entryway is suspiciously clean. There are no shoes in the shoe rack. 
+There is a singular plant in the corner. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+0
+Kitchen
+The kitchen looks brand new and spotless. 
+A picture is attached to the fridge depicting Dr Anvik and a dog. The picture is captioned "MAGGIE". 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+0
+Living Room
+The living room is spacious with bookshelves and comfortable chairs. 
+You find the book nicole told you to pull. When you do, you hear a grinding from below you. It seems her room is now unlocked. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+0
+Main Floor Hallway
+The hallway has stairs to the top and bottom floors. 
+The hallway shows wear from years of use. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+134
+0
+
+0 
+Basement Dumbwaiter
+The room is empty aside from the dumbwaiter in the wall. 
+The dumbwaiter in the wall looks just big enough for you to fit in. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+25
+0
+
+3
+Nicole's Room
+This is covered in ducks. They're everywhere. They look at you with sad eyes. 
+Nicole stops you from searching the room. Why were you trying to search her stuff, anyways? 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+0
+Storage Room 
+The room is dank and musty smelling. 
+Random electronic parts and pieces of cardboard are scattered everywhere. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+2
+Furnace Room 
+The room is dark and moist, its bareness compared to the rest of the building is jarring. 
+The fibreglass is barely contained in the wood frame and some of the exposed wiring is fraying. There is a breaker on the North wall. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+12
+0
+
+0
+Basement Hallway 
+The hallway has stairs going to the middle floor. 
+The hallway shows wear from years of use. 
+AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH 
+13
+0
+

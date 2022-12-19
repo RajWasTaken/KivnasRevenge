@@ -1,0 +1,166 @@
+Nicole 
+Nicole's disposition suggests that this is just a mild inconvenience to her. 
+What would you like to ask Nicole? 
+
+State: TalkToNiko1 Tree: Story
+
+Wow you're still alive! I have got to admit I did not expect that. I hate when this happens. 
+Every time he makes a big development he thinks he's finally perfected it, but one style error or memory leak, and BOOM! Homicidal Cyborg Anvik. 
+He let the AI he was working on have a little too much access to his brain function, and that combined with a missing semicolon or curly bracket means it's got a  mind of its own... in his own body. Well I'm glad you're here, because otherwise I would likely be dead. Knew I shouldn't have drank that much after 2720... ducks  everywhere.... 
+
+State: TalkToNiko1 Tree: Objective
+
+There's only two ways to revert him out of this state. Either debugging the AI code, or entering the password and disabling the program. 
+The way to do that is through Anvik's console in his lab. I would tell you the password, but I lost some of my ducks, and I can't remember it without their  collective debugging power. 
+You need to scour the house and find them all before its too late! That, or debug the AI, but none of us have been able to figure that out yet. 
+
+State: TalkToNiko1 Tree: Personal
+
+As you can see, I like ducks! I collect them and use them for debugging. They all have different personalities that we extract from inter... I mean ... make up, because they're made of rubber....
+If you're on the top and bottom floors, and you suspect Kivna is near, you can use the dumbwaiters on the far left side of the house to get out of a pinch. Avoid or be extremely careful around the middle floor, because if you make too much noise, there's nowhere to go besides to him!
+Be mindful of the noise you make! Searching a room or unlocking a creaky door could alert Kivna to your presence. Some sounds are louder than others and can attract him even if he's far away. 
+
+State: HaveAllDucks Tree: Story
+
+Each duck has a unqiue personality and debugging strength. 
+They're all completely made up though. All our duck research is done ethically, despite what critics may say. 
+Oh... that was another Marcus... I mean... I made Marcus up... I mean... don't worry about it. 
+
+State: HaveAllDucks Tree: Objective
+
+Wow you found all the ducks, and are still in one piece! 
+I think I remember it! The password was either emacs4lyfe911 or vimsucks69420 
+You got that? emacs4lyfe911 or vimsucks69420, I can't remember which.
+
+State: HaveAllDucks Tree: Personal
+
+Go disable the program! Now is not the time for small talk!
+Go disable the program! Now is not the time for small talk!
+Go disable the program! Now is not the time for small talk!
+
+State: TalkNiko2 Tree: Story
+
+What? There's no quacking? Are you sure you're not hearing things?
+Hi positive! I'm Nicole!
+I'm sorry my memory is really bad, what were you saying?
+
+State: TalkNiko2 Tree: Objective
+
+Perhaps we could go down the age old route of arson. 
+If you got me the ingredients for it... I could fashion an improvised nuclear device and we could be rid of Kivna for good. At this point, that's our last option. 
+Let me think... you would need: Some enriched uranium-235, a high speed centrifuge from the lab, some Elmer's Glue to hold it all together, and a rope for the fuse. 
+
+State: TalkNiko2 Tree: Personal
+
+I started working here after the great 2720 incident of 22', you were in that class right?
+I've gotta admit I didn't take it the best way... leaned into the bottle a bit too much.
+Yeah... they gave me so much knowledge... Anvik couldn't have got anywhere near what has without me and those ducks. Only problem is those epihanies sometimes meant I wasn't exactly all there. So with my bad memory they occasionally ended up getting scattered.
+
+State: Bomb Tree: Story
+
+That's not important! Go plant the bomb!
+That's not important! Go plant the bomb!
+That's not important! Go plant the bomb!
+
+State: Bomb Tree: Objective
+
+Go plant the bomb!
+Go plant the bomb!
+Go plant the bomb!
+
+State: Bomb Tree: Personal
+
+Go plant the bomb!
+Go plant the bomb!
+Go plant the bomb!
+
+State: TalkToNiko1 Tree: Story
+
+Nicole! What's happening?
+What? What was that noise?
+Homicidal... cyborg? What are you talking about?
+
+State: TalkToNiko1 Tree: Objective
+
+How do I fix whatever's wrong?
+Okay... and how do I do that?
+Seriously? Ducks? Where are they?
+
+State: TalkToNiko1 Tree: Personal
+
+So... what do you do here?
+Is there anything I should know about the facility?
+Is there anything else I should know?
+
+State: HaveAllDucks Tree: Story
+
+Why do you need all the ducks?
+...
+If they're all made up, why is there a duck that looks exactly like Marcus? It even shakes a little bit if you whisper "vim" into its ear...
+
+State: HaveAllDucks Tree: Objective
+
+I got them all! 
+So do you remember the password?
+What?
+
+State: HaveAllDucks Tree: Personal
+
+So what's your favorite dinosaur?
+So what's your favorite dinosaur?
+So what's your favorite dinosaur?
+
+State: TalkNiko2 Tree: Story
+
+Why can I hear quacking and webbed feet in the upstairs labs?
+I'm positive.
+Stop dodging my question.
+
+State: TalkNiko2 Tree: Objective
+
+So what do we do now?
+I'm sorry, what?
+Nuclear... device? Wait so what do I need to do?
+
+State: TalkNiko2 Tree: Personal
+
+So how long have you been here?
+Yeah... I remember.
+Is that how you lost the ducks?
+
+State: BombHunting Tree: Story
+
+You can stop with the lies now, what really goes on here? Why are there quacks in the lab?
+...
+So where did the rest of the ducks come from?
+
+State: BombHunting Tree: Objective
+
+Wait so what am I doing again?
+So how are we not also gonna die by said bomb?
+What about the radiation?
+
+State: BombHunting Tree: Personal
+
+So... you wanna grab a coffee sometime?
+So... you wanna grab a coffee sometime?
+So... you wanna grab a coffee sometime?
+
+State: BombHunting Tree: Story
+
+So how do you know how to make a nuclear bomb?
+So how do you know how to make a nuclear bomb?
+So how do you know how to make a nuclear bomb?
+
+State: BombHunting Tree: Objective
+
+So what do I do now?
+So what do I do now?
+So what do I do now?
+
+State: BombHunting Tree: Personal
+
+You like Huey Lewis and the News?
+Their early work was a little too new wave for my taste
+But when Sports came out in '83, I think they really came into their own.
+
