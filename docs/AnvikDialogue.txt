@@ -82,7 +82,7 @@ I'm sorry, criticized?
 
 State: TalkAnvik Tree: Objective
 
-So can I do to help?
+So what can I do to help?
 That's it
 Like what?
 
@@ -100,7 +100,7 @@ I'm sorry, criticized?
 
 State: TalkAnvik Tree: Objective
 
-So can I do to help?
+So what can I do to help?
 That's it
 Like what?
 
@@ -118,7 +118,7 @@ I'm sorry, criticized?
 
 State: TalkAnvik Tree: Objective
 
-So can I do to help?
+So what can I do to help?
 That's it
 Like what?
 
@@ -136,7 +136,7 @@ I'm sorry, criticized?
 
 State: TalkAnvik Tree: Objective
 
-So can I do to help?
+So what can I do to help?
 That's it
 Like what?
 
