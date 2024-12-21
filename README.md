@@ -1,7 +1,15 @@
+A console text based game where you traverse a small facility, picking up items and interacting with environment elements to complete your objective of escaping alive. 
+
+Video:
+https://youtu.be/-LlewyIZVzo
+
+Play for yourself at: 
+https://rajwastaken-kivnasreven-dsdag14hamh.ws-us117.gitpod.io/
+
 Things to note:
 
 1. The Game is hard. You have to be very careful with your searching, and use tight windows to bait Kivna to a certain position in order to get certain objectives.
-	- Searching alerts Kivna to your location if he is on your floor or one floor away. He will begin following the same paths you can (save for the fact that he cannot take the dumbwaiters) to navigate to the spot in which the last search was.
+	- Searching alerts Kivna to your location if he is on your floor or one floor away. He will begin following the same paths you can (except for the fact that he cannot take the dumbwaiters) to navigate to the spot in which the last search was.
 	- Doing anything on the middle floor is treacherous as if he gets on the middle floor, you are doomed. Acquiring any items on the middle floor must be done with thought in mind.
 
 
